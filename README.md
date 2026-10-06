@@ -79,7 +79,7 @@ Massage therapists can manage their schedules, appointments, and financial infor
 I developed the application structure, including frontend interfaces, application logic, backend integration, and user management features.
 
 **Technologies:**
-JavaScript, TypeScript, HTML, CSS, Node.js, Git
+JavaScript, TypeScript, HTML, CSS, React, Node.js, Git
 
 **Repository:**
 [[Project Link](https://github.com/niusha-yaghini/Massage_Website.git)]
@@ -98,7 +98,7 @@ Clients can access their session history, book appointments, participate in onli
 I implemented the frontend and backend structure of the application, including user dashboards, workflow management, and application features.
 
 **Technologies:**
-JavaScript, TypeScript, HTML, CSS, Node.js, Git
+JavaScript, TypeScript, HTML, CSS, React, Node.js, Git
 
 **Repository:**
 [[Project Link](https://github.com/niusha-yaghini/psychological_website.git)]
